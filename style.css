@@ -1,0 +1,15 @@
+img {
+    width: 200px;
+}
+/* filepath: /workspaces/My-Website/style.css */
+body {
+    text-align: center;
+    font-family: "Times New Roman";
+    color: red;
+    background-image: url("https://c8.alamy.com/comp/2CFPM1J/thumbs-up-emoji-isolated-on-yellow-background-emoticon-giving-likes-3d-rendering-2CFPM1J.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    height: 100vh;
+    margin: 0; 
+}
